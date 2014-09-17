@@ -1,0 +1,285 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#Follow_us {
+    float: left;
+    font-size: 0.875em;
+    width: 6.015625%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 36px;
+    color: black;
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 6;
+    margin-top: 47px;
+    margin-left: -13.125%;
+    clear: none;
+}
+
+#powered_by {
+    float: left;
+    font-size: 0.875em;
+    width: 10.78125%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 36px;
+    color: black;
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    margin-top: 48px;
+    margin-left: -95.15625%;
+    clear: none;
+}
+
+#more {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 29;
+}
+
+#intro {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 88;
+    margin-top: 120px;
+    margin-left: 14.140625%;
+    clear: both;
+}
+
+#hatte-logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+    margin-top: 38px;
+    margin-left: -88.28125%;
+    clear: none;
+}
+
+#btn-tw {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 14;
+    margin-top: 35px;
+    margin-left: 1.25%;
+    clear: none;
+}
+
+#allow-scrolldown-o {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 103;
+}
+
+#products-4 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 32;
+}
+
+#allow-scrolldown {
+    float: left;
+    width: 15.9375%;
+    height: 44px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 99;
+    background-image:url("img/allow-scrolldown.png");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    margin-top: 183px;
+    margin-left: 42.03125%;
+    clear: both;
+}
+
+#btn-fb {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin-top: 35px;
+    margin-left: 90.625%;
+    clear: both;
+}
+
+#btn-buy-l-o {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 111;
+}
+
+#products-3 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 35;
+    margin-top: 95px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#btn-buy-l {
+    float: left;
+    width: 19.53125%;
+    height: 60px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 107;
+    background-image:url("img/btn-buy-l.png");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    margin-top: 76px;
+    margin-left: 40.15625%;
+    clear: both;
+}
+
+#products-2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 38;
+    margin-top: 95px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#Climbing_Lovers_Jewelry_brings_to_you_creative_and_unique_desi {
+    float: left;
+    font-size: 1.5em;
+    width: 71.640625%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 93;
+    margin-top: 56px;
+    margin-left: 14.0625%;
+    clear: both;
+}
+
+#CLIMBING_LOVERS_Jewelry {
+    float: left;
+    font-size: 3.75em;
+    width: 99.609375%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 94;
+    margin-top: 209px;
+    margin-left: 0%;
+    clear: none;
+    display: block;
+}
+
+#products-1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 41;
+    margin-top: 95px;
+    margin-left: 0%;
+    clear: both;
+}
+

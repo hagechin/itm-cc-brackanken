@@ -1,0 +1,121 @@
+
+{
+
+	"symbol_p3":{
+		"element_${_products-3-o}":{
+			"timelineColor2":"0x1095d2",
+			"animationEnabled":"true",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"}},
+	"expanded:images/header_bg.jpg":"nil",
+	"pref__general__AutoKeyframeProperties":"true",
+	"symbol_p2":{
+		"element_${_products-2-o}":{
+			"timelineColor2":"0x326a96",
+			"animationEnabled":"true",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"}},
+	"p4-Default Timeline_playhead_ms":"0",
+	"p2-Default Timeline_playhead_ms":"0",
+	"expanded:images/products_main.jpg":"nil",
+	"symbol_p1":{
+		"element_${_products-1-o}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"true"}},
+	"CompZoomFactor":"100",
+	"expanded:images/products3.jpg":"nil",
+	"pixelsPerMs":"0.2",
+	"nextElementColorIndex":"9",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"p1-Default Timeline_playhead_ms":"0",
+	"HTMLFileName":"index.html",
+	"expanded:images/products2.jpg":"nil",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"p1\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"p2\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"p3\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"p4\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"プリローダー\": {\
+   \"timelines\": {\
+\
+   }},\
+\"下位レベル\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"symbol_p4":{
+		"element_${_products-4-o}":{
+			"timelineColor2":"0x107faa",
+			"animationEnabled":"true",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"}},
+	"expanded:images/products-3-o.png":"nil",
+	"expanded:images/products-2-o.png":"nil",
+	"p3-Default Timeline_playhead_ms":"0",
+	"expanded:images/logo.jpg":"nil",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"symbol_stage":{
+		"element_${_products-3-o}":{
+			"animationEnabled":"false"},
+		"element_${_products-2-o}":{
+			"animationEnabled":"false"},
+		"element_${_p3}":{
+			"timelineColor2":"0x4fa275",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${_p2}":{
+			"timelineColor2":"0x81aa62",
+			"animationEnabled":"true",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${_p1}":{
+			"timelineColor2":"0xcbbd71",
+			"animationEnabled":"true",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_products-1-o}":{
+			"animationEnabled":"false"},
+		"element_${_p4}":{
+			"timelineColor2":"0x1aa38f",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"element_${_products-4-o}":{
+			"animationEnabled":"false"}},
+	"TransitionIdCounter":"45",
+	"viewStartY":"0",
+	"stage-Default Timeline_playhead_ms":"0",
+	"expanded:images/allow.png":"nil",
+	"expanded:images/products.jpg":"nil",
+	"usedBOM":"false",
+	"StageZoomFactor":"100",
+	"PreloadAudio":"auto",
+	"expanded:images/products-4-o.png":"nil",
+	"p1-Default Timeline_mark_ms":"-1",
+	"expanded:images/products-1-o.png":"nil"}

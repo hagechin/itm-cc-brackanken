@@ -1,0 +1,360 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#Follow_us {
+    float: left;
+    font-size: 0.875em;
+    width: 45.835037%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 36px;
+    color: black;
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 6;
+    margin-top: 12px;
+    margin-left: -100%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#powered_by {
+    float: left;
+    font-size: 0.875em;
+    width: 69.734911%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 36px;
+    color: black;
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    margin-top: 10px;
+    margin-left: -100.00789%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#more {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 29;
+}
+
+#hatte-logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+    margin-top: 0px;
+    margin-left: 44.465483%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#btn-tw {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 14;
+    margin-top: 0px;
+    margin-left: 9.516729%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#We_are_proud_to_say_that_Climbing_Lovers_Jewelry_is_finally_in {
+    float: left;
+    font-size: 1.5em;
+    width: 73.984375%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 36px;
+    color: black;
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 86;
+    margin-top: 46px;
+    margin-left: 12.812256%;
+    clear: both;
+}
+
+#products-4 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 32;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 87;
+    margin-top: 92px;
+    margin-left: 39.84314%;
+    clear: both;
+}
+
+#allow {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 97;
+    margin-top: 215px;
+    margin-left: -36.40625%;
+    clear: none;
+}
+
+#btn-fb {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    margin-left: 46.468401%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#Scroll_down_to_learn_more {
+    float: left;
+    font-size: 1.125em;
+    width: 71.640625%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 36px;
+    color: rgb(208, 208, 208);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 98;
+    margin-top: 183px;
+    margin-left: 13.984375%;
+    clear: both;
+}
+
+#BUY_NOW {
+    float: left;
+    font-size: 1.5em;
+    width: 99.6%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 106;
+    margin-top: 22px;
+    margin-left: 0.4%;
+    clear: none;
+}
+
+#products-3 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 35;
+    margin-top: 82px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#btn-bg {
+    float: left;
+    width: 19.53125%;
+    height: 60px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 105;
+    background-image:url("img/btn-bg.png");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    margin-top: 76px;
+    margin-left: 40.15625%;
+    clear: both;
+}
+
+#products-2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 38;
+    margin-top: 82px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#Climbing_Lovers_Jewelry_brings_to_you_creative_and_unique_desi {
+    float: left;
+    font-size: 1.5em;
+    width: 71.640625%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 93;
+    margin-top: 56px;
+    margin-left: 14.0625%;
+    clear: both;
+}
+
+#CLIMBING_LOVERS_Jewelry {
+    float: left;
+    font-size: 3.75em;
+    width: 99.609375%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: lato;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 94;
+    margin-top: 209px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#products-1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 41;
+    margin-top: 82px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#header_bg {
+    float: left;
+    width: 100%;
+    height: 800px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 92;
+    background-image:url("img/header_bg.jpg");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+#box {
+    float: left;
+    height: auto;
+    margin-left: 2.495609%;
+    margin-top: 38px;
+    clear: both;
+    width: 15.461553%;
+}
+
+#box1 {
+    float: left;
+    height: auto;
+    margin-left: 66.570306%;
+    margin-top: 35px;
+    clear: none;
+    width: 13.124512%;
+}
+

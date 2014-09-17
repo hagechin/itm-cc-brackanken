@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-121035658" name="p1" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/icon.png" width="640" height="640" />
+
+  <require type="other" src="p1.html" />
+
+  <require type="javascript" src="p1_edge.js" />
+  <require type="javascript" src="p1_edgeActions.js" />
+  <require type="javascript" src="p1_edgePreload.js" />
+
+  <require type="image" src="images/allow.png" />
+  <require type="image" src="images/header_bg.jpg" />
+  <require type="image" src="images/icon.png" />
+  <require type="image" src="images/logo.jpg" />
+  <require type="image" src="images/Poster.png" />
+  <require type="image" src="images/products-1-o.png" />
+  <require type="image" src="images/products-2-o.png" />
+  <require type="image" src="images/products-3-o.png" />
+  <require type="image" src="images/products-4-o.png" />
+  <require type="image" src="images/products.jpg" />
+  <require type="image" src="images/products2.jpg" />
+  <require type="image" src="images/products3.jpg" />
+  <require type="image" src="images/products_main.jpg" />
+
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-121035658"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="640" hidden="true"/>
+    <property name="default-height" defaultValue="640" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="p1.html" hidden="true"/>
+  </properties>
+
+</widget>
